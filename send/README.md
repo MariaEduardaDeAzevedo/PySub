@@ -5,7 +5,7 @@
 
 # Guia de Envio
 
-###Visão geral 👀
+### Visão geral 👀
 Primeiramente, você tem que ter recebido do destinatário um projeto chamado **send**. Dentro desse diretório, você encontrará os seguintes arquivos:
 
 1.   **pysub.py** é o arquivo que vai interagir com o usuário. É nele que se encontram todas as funcionalidades da aplicação.
@@ -18,7 +18,7 @@ Primeiramente, você tem que ter recebido do destinatário um projeto chamado **
 python3 pysub.py init from-config
 ```
 A entrada irá pedir seu email e seu identificador. Atente para a seção [specification](#specification) para que os coloque no modelo que seu destinatário deseja.
-Após isso, será criado um arquivo** .from_config.json** que irá armazenar suas informações.
+Após isso, será criado um arquivo **.from_config.json** que irá armazenar suas informações.
 
 2.  Atente para a criação de uma **pasta compactada (em .zip)** contendo o que é desejado submeter. O padrão de nome do arquivo compacado deve ser **seu_identificador.zip**, caso contrário, o PySub não encontrará seu arquivo de submissão.
 
@@ -45,7 +45,7 @@ python3 pysub.py init from-config
 ```
 You must input your email and id. Check the [specification](#specification) section to see the recipient requirements.
 
-A ** .from_config.json** file will be created and keep all information you need to send.
+A **.from_config.json** file will be created and keep all information you need to send.
 
 2.  You must create a **zip file** with the submition content. The name template is **your_id.zip**, otherwise PySub can't find the submition file.
 
@@ -56,5 +56,3 @@ A ** .from_config.json** file will be created and keep all information you need 
    Type your email password and the submition is finished. 
 
 ## specification
-E-mail:academico
-Identify: matricula
