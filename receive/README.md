@@ -4,7 +4,7 @@
 
 # Guia de Recebimento
 
-###Visão geral 👀
+### Visão geral 👀
 Primeiramente, você tem que clonar todo esse repositório, do seguinte modo:
 
 ```
